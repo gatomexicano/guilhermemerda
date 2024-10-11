@@ -1,2 +1,0 @@
-# guilhermemerdaflashcards
-nicole diva
