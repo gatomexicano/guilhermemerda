@@ -1,10 +1,10 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #136eaadc;
+    --card-front-color: #0c8a8edc;
     --card-back-color: #00F4BF;
 }
 footer {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(248, 248, 248);
     color: white;
     position: fixed;
     bottom: 0;
@@ -19,8 +19,11 @@ footer p {
 }
         
 body {
-    background:url(img/bg-desktop.webp);
-    font-family: Bai Jamjuree;
+    background:url(img/imagem.webp) center fixed;
+    font-family: DIOGENES, sans-serif;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
                 
 .cartao {
